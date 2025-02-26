@@ -1,0 +1,6 @@
+.menu__title__container > h1 {
+  margin: 15px 0px;
+  font-size: 250px;
+  display: flex;
+  justify-content: center;
+}
